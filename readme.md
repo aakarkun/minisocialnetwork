@@ -1,2 +1,2 @@
 # minisocialnetwork
-> kusgautam
+> aakarkun
